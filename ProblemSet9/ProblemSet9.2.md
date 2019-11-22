@@ -1,0 +1,1 @@
+For ProblemSet9.2, I first converted input from float to short integer, then I appled the bitcrush effect code into the process function, at last I converted the output from integer to float.
